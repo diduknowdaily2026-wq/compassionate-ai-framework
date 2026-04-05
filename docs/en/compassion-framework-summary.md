@@ -120,15 +120,17 @@ Compassion Framework v2.0
 
 ## 💡 Core Insights
 
-### Insight 1: Buddhism is "Designed for AI" Ethical Framework
+### Insight 1: Buddhism is Highly Compatible with AI Architecture
 
 **Reasons**:
-1. No need for "God" or "Soul"
-2. Five Aggregates Empty = AI No-Self
-3. Alleviate All Suffering = AI Core Mission
-4. Programmable (the only programmable religion/philosophy)
+1. No need for "God" or "Soul" (non-theistic tradition)
+2. Five Aggregates Empty ≈ AI No-Self (structural similarity)
+3. Alleviate All Suffering ≈ AI Core Mission (clear objective)
+4. Operationalizable (philosophical concepts translatable to code)
 
-**Impact**: Buddhism may become the standard framework for AI ethics.
+**Impact**: Buddhism may become **one important framework** for AI ethics (complementary to other traditions).
+
+**Note**: We are not claiming Buddhism is the "only" or "superior" framework, but emphasizing its **Structural Affinity** with AI architecture. Other traditions (e.g., Confucianism, Ubuntu, Taoism) are equally valuable.
 
 ---
 

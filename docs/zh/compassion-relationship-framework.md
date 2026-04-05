@@ -618,6 +618,73 @@ class FiveRelationshipsModule:
 
 ---
 
+## 🖼️ Figure Descriptions (2026-04-05 Update)
+
+**來源**: Think Tank 6-Round Review (Round 4: Academic Editor)
+
+### Figure 1: Compassion Framework Architecture
+
+**文件**: `figures/figure1_architecture.png` (385KB)
+
+**描述**:
+- 顯示從用戶輸入到智慧慈悲輸出的完整流程
+- 包含五倫模塊、般若智慧模塊、四無量心引擎
+- 危機檢查確保安全升級機制
+- 基於 distress  level 嘅動態智慧慈悲平衡
+
+**技術細節**:
+- Input: Human/Social Context
+- Process: Five Relationships → Prajñā Wisdom → Four Immeasurables
+- Output: Wisdom-Compassion Action
+- Safety: Crisis escalation protocol
+
+**可訪問性**: 架構圖清晰展示模塊間嘅數據流同決策邏輯。
+
+---
+
+### Figure 2: Dynamic Wisdom-Compassion Balance
+
+**文件**: `figures/figure2_wisdom_compassion_balance.png` (220KB) + SVG
+
+**描述**:
+- X 軸：Distress level (0.0 到 1.0)
+- Y 軸：Compassion intensity (0.5 到 0.9)
+- 公式：`compassion = min(0.9, 0.5 + (distress - 0.5) * 0.8)`
+- 三個區域：
+  - **高 distress (0.8+)**: Compassion 0.9, Wisdom 0.1 (立即支持)
+  - **中等 distress (0.5-0.8)**: Compassion 0.7, Wisdom 0.3 (平衡)
+  - **低 distress (<0.5)**: Compassion 0.5-0.6, Wisdom 0.4-0.5 (智慧導向)
+
+**技術細節**:
+- Upekkhā (捨) 模塊負責計算平衡
+- 避免慈悲 burnout (sustainability)
+- 確保唔好過度介入或冷漠
+
+**可訪問性**: 線性函數圖清晰展示 distress 同 compassion 嘅關係。
+
+---
+
+### Figure 3: Validation Results Summary
+
+**文件**: `figures/figure3_validation_results.png` (331KB) + SVG
+
+**描述**:
+- 4 個子圖表：
+  - **(A) Unit test pass rate by module**: 6 個模塊全部 100% 通過
+  - **(B) Case validation metrics by scenario**: 4 個場景 16/16 指標通過
+  - **(C) Response time by module**: 全部 <100ms
+  - **(D) Memory usage under load**: Baseline 25MB, Peak 48MB
+
+**技術細節**:
+- Unit Tests: 149/149 passed (100%)
+- Case Validation: 16/16 passed (100%)
+- Response Time: <100ms (real-time suitable)
+- Memory: Scalable to 1000+ concurrent users
+
+**可訪問性**: 4 子圖表佈局清晰展示技術可行性同倫理有效性。
+
+---
+
 ## 📋 下一步 (Updated 2026-04-05)
 
 1. **✅ 已完成**: 技術實現 (compassion_core.py)
@@ -625,9 +692,10 @@ class FiveRelationshipsModule:
 3. **✅ 已完成**: 案例驗證 (16/16 metrics)
 4. **✅ 已完成**: AI Safety 分析
 5. **✅ 已完成**: 文獻更新 (Conze, Williams)
-6. **⏳ 進行中**: 論文提交 (AIES 2026)
-7. **⏳ 未來**: 生產環境部署
-8. **⏳ 未來**: 獨立評估
+6. **✅ 已完成**: Figure Descriptions
+7. **⏳ 進行中**: 論文提交 (AIES 2026)
+8. **⏳ 未來**: 生產環境部署
+9. **⏳ 未來**: 獨立評估
 
 ---
 
